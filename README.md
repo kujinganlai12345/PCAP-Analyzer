@@ -42,7 +42,7 @@ Follow these instructions to get a copy of the PCAP Analysis Tool running on you
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/paresh2806/PCAP-Analyzer.git
+git clone https://github.com/kujinganglai12345/PCAP-Analyzer.git
 ```
 
 2. Navigate to the cloned repository directory:
